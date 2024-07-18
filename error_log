@@ -1,0 +1,962 @@
+[07-May-2024 06:08:45 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/dbditsco/bersyukur.cloud/IOTKK/getUID.php on line 2
+[07-May-2024 07:06:17 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/dbditsco/bersyukur.cloud/IOTKK/getUID.php on line 2
+[07-May-2024 07:56:22 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/dbditsco/bersyukur.cloud/IOTKK/getUID.php on line 2
+[07-May-2024 09:07:01 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/dbditsco/bersyukur.cloud/IOTKK/getUID.php on line 2
+[08-May-2024 13:24:07 UTC] PHP Parse error:  syntax error, unexpected character 0x03 in /home/dbditsco/bersyukur.cloud/IOTKK/engine.php on line 3
+[08-May-2024 13:24:08 UTC] PHP Parse error:  syntax error, unexpected character 0x03 in /home/dbditsco/bersyukur.cloud/IOTKK/engine.php on line 3
+[11-May-2024 06:57:09 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/dbditsco/bersyukur.cloud/IOTKK/getUID.php on line 2
+[12-May-2024 01:45:45 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 69
+[12-May-2024 01:45:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 69
+[12-May-2024 01:45:45 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 72
+[12-May-2024 01:45:45 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 76
+[12-May-2024 01:45:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 76
+[12-May-2024 01:45:45 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 83
+[12-May-2024 01:45:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 83
+[12-May-2024 01:45:45 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 100
+[12-May-2024 01:45:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 100
+[12-May-2024 01:45:45 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 107
+[12-May-2024 01:45:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 107
+[12-May-2024 01:49:36 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 79
+[12-May-2024 01:49:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 79
+[12-May-2024 01:49:36 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 82
+[12-May-2024 01:49:36 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 86
+[12-May-2024 01:49:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 86
+[12-May-2024 01:49:36 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 93
+[12-May-2024 01:49:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 93
+[12-May-2024 01:49:36 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 110
+[12-May-2024 01:49:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 110
+[12-May-2024 01:49:36 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 117
+[12-May-2024 01:49:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 117
+[12-May-2024 01:50:32 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 83
+[12-May-2024 01:50:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 83
+[12-May-2024 01:50:32 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 86
+[12-May-2024 01:50:32 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 90
+[12-May-2024 01:50:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 90
+[12-May-2024 01:50:32 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 97
+[12-May-2024 01:50:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 97
+[12-May-2024 01:50:32 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 114
+[12-May-2024 01:50:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 114
+[12-May-2024 01:50:32 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 121
+[12-May-2024 01:50:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 121
+[12-May-2024 01:51:58 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 83
+[12-May-2024 01:51:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 83
+[12-May-2024 01:51:58 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 86
+[12-May-2024 01:51:58 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 90
+[12-May-2024 01:51:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 90
+[12-May-2024 01:51:58 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 97
+[12-May-2024 01:51:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 97
+[12-May-2024 01:51:58 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 114
+[12-May-2024 01:51:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 114
+[12-May-2024 01:51:58 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 121
+[12-May-2024 01:51:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 121
+[12-May-2024 01:55:24 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 87
+[12-May-2024 01:55:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 87
+[12-May-2024 01:55:24 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 90
+[12-May-2024 01:55:24 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 94
+[12-May-2024 01:55:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 94
+[12-May-2024 01:55:24 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 101
+[12-May-2024 01:55:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 101
+[12-May-2024 01:55:24 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 118
+[12-May-2024 01:55:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 118
+[12-May-2024 01:55:24 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 125
+[12-May-2024 01:55:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 125
+[12-May-2024 01:56:23 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 69
+[12-May-2024 01:56:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 69
+[12-May-2024 01:56:23 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 72
+[12-May-2024 01:56:23 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 76
+[12-May-2024 01:56:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 76
+[12-May-2024 01:56:23 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 83
+[12-May-2024 01:56:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 83
+[12-May-2024 01:56:23 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 100
+[12-May-2024 01:56:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 100
+[12-May-2024 01:56:23 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 107
+[12-May-2024 01:56:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 107
+[12-May-2024 01:58:07 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 101
+[12-May-2024 01:58:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 101
+[12-May-2024 01:58:07 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 104
+[12-May-2024 01:58:07 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 108
+[12-May-2024 01:58:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 108
+[12-May-2024 01:58:07 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 115
+[12-May-2024 01:58:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 115
+[12-May-2024 01:58:07 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 132
+[12-May-2024 01:58:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 132
+[12-May-2024 01:58:07 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 139
+[12-May-2024 01:58:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 139
+[12-May-2024 02:00:14 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 101
+[12-May-2024 02:00:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 101
+[12-May-2024 02:00:14 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 104
+[12-May-2024 02:00:14 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 108
+[12-May-2024 02:00:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 108
+[12-May-2024 02:00:14 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 115
+[12-May-2024 02:00:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 115
+[12-May-2024 02:00:14 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 132
+[12-May-2024 02:00:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 132
+[12-May-2024 02:00:14 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 139
+[12-May-2024 02:00:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 139
+[12-May-2024 02:00:52 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 111
+[12-May-2024 02:00:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 111
+[12-May-2024 02:00:52 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 114
+[12-May-2024 02:00:52 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 118
+[12-May-2024 02:00:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 118
+[12-May-2024 02:00:52 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 125
+[12-May-2024 02:00:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 125
+[12-May-2024 02:00:52 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 142
+[12-May-2024 02:00:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 142
+[12-May-2024 02:00:52 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 149
+[12-May-2024 02:00:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 149
+[12-May-2024 02:01:10 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 111
+[12-May-2024 02:01:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 111
+[12-May-2024 02:01:10 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 114
+[12-May-2024 02:01:10 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 118
+[12-May-2024 02:01:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 118
+[12-May-2024 02:01:10 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 125
+[12-May-2024 02:01:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 125
+[12-May-2024 02:01:10 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 142
+[12-May-2024 02:01:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 142
+[12-May-2024 02:01:10 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 149
+[12-May-2024 02:01:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 149
+[12-May-2024 02:01:21 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 111
+[12-May-2024 02:01:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 111
+[12-May-2024 02:01:21 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 114
+[12-May-2024 02:01:21 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 118
+[12-May-2024 02:01:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 118
+[12-May-2024 02:01:21 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 125
+[12-May-2024 02:01:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 125
+[12-May-2024 02:01:21 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 142
+[12-May-2024 02:01:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 142
+[12-May-2024 02:01:21 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 149
+[12-May-2024 02:01:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 149
+[12-May-2024 02:01:49 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 111
+[12-May-2024 02:01:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 111
+[12-May-2024 02:01:49 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 114
+[12-May-2024 02:01:49 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 118
+[12-May-2024 02:01:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 118
+[12-May-2024 02:01:49 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 125
+[12-May-2024 02:01:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 125
+[12-May-2024 02:01:49 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 142
+[12-May-2024 02:01:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 142
+[12-May-2024 02:01:49 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 149
+[12-May-2024 02:01:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 149
+[12-May-2024 02:02:00 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 111
+[12-May-2024 02:02:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 111
+[12-May-2024 02:02:00 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 114
+[12-May-2024 02:02:00 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 118
+[12-May-2024 02:02:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 118
+[12-May-2024 02:02:00 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 125
+[12-May-2024 02:02:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 125
+[12-May-2024 02:02:00 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 142
+[12-May-2024 02:02:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 142
+[12-May-2024 02:02:00 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 149
+[12-May-2024 02:02:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 149
+[12-May-2024 02:02:37 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 111
+[12-May-2024 02:02:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 111
+[12-May-2024 02:02:37 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 114
+[12-May-2024 02:02:37 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 118
+[12-May-2024 02:02:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 118
+[12-May-2024 02:02:37 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 125
+[12-May-2024 02:02:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 125
+[12-May-2024 02:02:37 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 142
+[12-May-2024 02:02:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 142
+[12-May-2024 02:02:37 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 149
+[12-May-2024 02:02:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 149
+[12-May-2024 02:03:07 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 109
+[12-May-2024 02:03:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 109
+[12-May-2024 02:03:07 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 112
+[12-May-2024 02:03:07 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 116
+[12-May-2024 02:03:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 116
+[12-May-2024 02:03:07 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 123
+[12-May-2024 02:03:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 123
+[12-May-2024 02:03:07 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 140
+[12-May-2024 02:03:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 140
+[12-May-2024 02:03:07 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 147
+[12-May-2024 02:03:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 147
+[12-May-2024 02:06:20 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 106
+[12-May-2024 02:06:20 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 110
+[12-May-2024 02:06:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 110
+[12-May-2024 02:07:49 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 106
+[12-May-2024 02:07:49 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 110
+[12-May-2024 02:07:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 110
+[12-May-2024 02:07:49 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 117
+[12-May-2024 02:07:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 117
+[12-May-2024 02:07:49 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 134
+[12-May-2024 02:07:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 134
+[12-May-2024 02:07:49 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 141
+[12-May-2024 02:07:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 141
+[12-May-2024 02:08:05 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 106
+[12-May-2024 02:08:05 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 110
+[12-May-2024 02:08:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 110
+[12-May-2024 02:08:05 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 117
+[12-May-2024 02:08:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 117
+[12-May-2024 02:08:05 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 134
+[12-May-2024 02:08:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 134
+[12-May-2024 02:08:05 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 141
+[12-May-2024 02:08:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 141
+[12-May-2024 02:08:30 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 106
+[12-May-2024 02:08:30 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 110
+[12-May-2024 02:08:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 110
+[12-May-2024 02:08:30 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 117
+[12-May-2024 02:08:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 117
+[12-May-2024 02:08:30 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 134
+[12-May-2024 02:08:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 134
+[12-May-2024 02:08:30 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 141
+[12-May-2024 02:08:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 141
+[12-May-2024 02:08:53 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 106
+[12-May-2024 02:08:53 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 110
+[12-May-2024 02:08:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 110
+[12-May-2024 02:08:53 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 117
+[12-May-2024 02:08:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 117
+[12-May-2024 02:08:53 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 134
+[12-May-2024 02:08:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 134
+[12-May-2024 02:08:53 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 141
+[12-May-2024 02:08:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 141
+[12-May-2024 02:11:08 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 106
+[12-May-2024 02:11:08 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 110
+[12-May-2024 02:11:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 110
+[12-May-2024 02:11:08 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 117
+[12-May-2024 02:11:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 117
+[12-May-2024 02:11:08 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 134
+[12-May-2024 02:11:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 134
+[12-May-2024 02:11:08 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 141
+[12-May-2024 02:11:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 141
+[12-May-2024 02:11:27 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 106
+[12-May-2024 02:11:27 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 110
+[12-May-2024 02:11:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 110
+[12-May-2024 02:11:27 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 117
+[12-May-2024 02:11:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 117
+[12-May-2024 02:11:27 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 134
+[12-May-2024 02:11:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 134
+[12-May-2024 02:11:27 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 141
+[12-May-2024 02:11:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 141
+[12-May-2024 02:11:48 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 106
+[12-May-2024 02:11:48 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 110
+[12-May-2024 02:11:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 110
+[12-May-2024 02:11:48 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 117
+[12-May-2024 02:11:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 117
+[12-May-2024 02:11:48 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 134
+[12-May-2024 02:11:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 134
+[12-May-2024 02:11:48 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 141
+[12-May-2024 02:11:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 141
+[12-May-2024 04:58:33 UTC] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 96
+[12-May-2024 04:58:35 UTC] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 96
+[12-May-2024 05:00:31 UTC] PHP Fatal error:  Uncaught TypeError: PDO::__construct(): Argument #4 ($options) must be of type ?array, string given in /home/dbditsco/bersyukur.cloud/IOTKK/database.php:7
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/database.php(7): PDO->__construct()
+#1 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(95): include('/home/dbditsco/...')
+#2 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/database.php on line 7
+[12-May-2024 05:00:33 UTC] PHP Fatal error:  Uncaught TypeError: PDO::__construct(): Argument #4 ($options) must be of type ?array, string given in /home/dbditsco/bersyukur.cloud/IOTKK/database.php:7
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/database.php(7): PDO->__construct()
+#1 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(95): include('/home/dbditsco/...')
+#2 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/database.php on line 7
+[12-May-2024 05:12:52 UTC] PHP Warning:  Undefined variable $id in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 119
+[12-May-2024 05:12:52 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 123
+[12-May-2024 05:12:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 123
+[12-May-2024 05:12:52 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 130
+[12-May-2024 05:12:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 130
+[12-May-2024 05:12:52 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 147
+[12-May-2024 05:12:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 147
+[12-May-2024 05:12:52 UTC] PHP Warning:  Undefined variable $data in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 154
+[12-May-2024 05:12:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/dbditsco/bersyukur.cloud/IOTKK/template.php on line 154
+[12-May-2024 06:08:13 UTC] PHP Warning:  include(databse.php): Failed to open stream: No such file or directory in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 3
+[12-May-2024 06:08:13 UTC] PHP Warning:  include(): Failed opening 'databse.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 3
+[12-May-2024 06:08:13 UTC] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 11
+[12-May-2024 06:09:46 UTC] PHP Warning:  include(databse.php): Failed to open stream: No such file or directory in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 3
+[12-May-2024 06:09:46 UTC] PHP Warning:  include(): Failed opening 'databse.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 3
+[12-May-2024 06:09:46 UTC] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 11
+[12-May-2024 06:13:44 UTC] PHP Warning:  include(databse.php): Failed to open stream: No such file or directory in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 3
+[12-May-2024 06:13:44 UTC] PHP Warning:  include(): Failed opening 'databse.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 3
+[12-May-2024 06:13:44 UTC] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 11
+[12-May-2024 06:15:19 UTC] PHP Warning:  include(databse.php): Failed to open stream: No such file or directory in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 3
+[12-May-2024 06:15:19 UTC] PHP Warning:  include(): Failed opening 'databse.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 3
+[12-May-2024 06:15:19 UTC] PHP Fatal error:  Uncaught Error: Class "Database" not found in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 11
+[12-May-2024 06:16:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_IOTKK.user' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php:16
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 16
+[12-May-2024 07:16:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 140
+[12-May-2024 07:16:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 147
+[12-May-2024 07:16:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 164
+[12-May-2024 07:16:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 171
+[12-May-2024 07:16:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 178
+[12-May-2024 07:16:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 140
+[12-May-2024 07:16:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 147
+[12-May-2024 07:16:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 164
+[12-May-2024 07:16:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 171
+[12-May-2024 07:16:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 178
+[12-May-2024 07:17:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 140
+[12-May-2024 07:17:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 147
+[12-May-2024 07:17:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 164
+[12-May-2024 07:17:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 171
+[12-May-2024 07:17:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 178
+[12-May-2024 07:17:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 140
+[12-May-2024 07:17:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 147
+[12-May-2024 07:17:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 164
+[12-May-2024 07:17:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 171
+[12-May-2024 07:17:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 178
+[12-May-2024 07:17:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 140
+[12-May-2024 07:17:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 147
+[12-May-2024 07:17:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 164
+[12-May-2024 07:17:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 171
+[12-May-2024 07:17:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 178
+[12-May-2024 07:17:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 140
+[12-May-2024 07:17:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 147
+[12-May-2024 07:17:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 164
+[12-May-2024 07:17:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 171
+[12-May-2024 07:17:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 178
+[12-May-2024 07:18:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 140
+[12-May-2024 07:18:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 147
+[12-May-2024 07:18:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 164
+[12-May-2024 07:18:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 171
+[12-May-2024 07:18:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 178
+[13-May-2024 06:38:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[13-May-2024 10:16:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[13-May-2024 10:17:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[13-May-2024 10:17:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[13-May-2024 10:17:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[13-May-2024 10:17:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[14-May-2024 05:05:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[14-May-2024 05:05:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[14-May-2024 05:06:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[14-May-2024 05:14:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[14-May-2024 05:21:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[14-May-2024 05:44:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[14-May-2024 05:51:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[14-May-2024 06:02:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[14-May-2024 06:03:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[14-May-2024 06:16:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[14-May-2024 08:54:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[14-May-2024 09:57:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[15-May-2024 03:28:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[15-May-2024 03:28:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[15-May-2024 03:30:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[15-May-2024 03:30:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[15-May-2024 03:39:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[15-May-2024 03:40:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[15-May-2024 03:40:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[15-May-2024 03:41:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[15-May-2024 03:41:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php:12
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 12
+[15-May-2024 03:42:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[15-May-2024 03:42:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php:12
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 12
+[15-May-2024 03:46:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[15-May-2024 03:47:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[15-May-2024 03:50:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[15-May-2024 03:54:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[15-May-2024 03:54:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php:98
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data.php(98): PDO->query()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data.php on line 98
+[15-May-2024 03:58:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.siswa_wali' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php:18
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php on line 18
+[15-May-2024 04:27:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php:12
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 12
+[15-May-2024 04:28:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php:12
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 12
+[15-May-2024 04:28:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php:12
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 12
+[15-May-2024 04:30:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php:12
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 12
+[15-May-2024 04:55:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php:12
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 12
+[15-May-2024 04:56:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php:12
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 12
+[15-May-2024 11:39:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php:19
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php(19): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php on line 19
+[15-May-2024 11:40:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php:19
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php(19): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php on line 19
+[15-May-2024 11:46:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php:12
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 12
+[15-May-2024 11:46:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php:12
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data edit page.php on line 12
+[15-May-2024 12:30:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[15-May-2024 12:30:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[15-May-2024 12:31:02 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[15-May-2024 12:33:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php:19
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php(19): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php on line 19
+[15-May-2024 12:34:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php:19
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php(19): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php on line 19
+[15-May-2024 12:34:09 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[15-May-2024 12:35:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[15-May-2024 12:35:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[15-May-2024 12:36:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[15-May-2024 12:36:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[15-May-2024 12:36:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[15-May-2024 12:36:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[16-May-2024 04:11:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[16-May-2024 04:13:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php:19
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php(19): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php on line 19
+[16-May-2024 04:14:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[16-May-2024 04:17:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php:19
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php(19): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php on line 19
+[16-May-2024 04:18:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php:19
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php(19): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php on line 19
+[16-May-2024 04:21:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php:18
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php on line 18
+[16-May-2024 04:21:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php:18
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php on line 18
+[16-May-2024 04:21:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php:18
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php on line 18
+[16-May-2024 04:22:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php:18
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php on line 18
+[16-May-2024 04:22:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php:18
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php on line 18
+[16-May-2024 04:22:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php:18
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php on line 18
+[16-May-2024 04:22:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php:18
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php on line 18
+[16-May-2024 09:13:07 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[16-May-2024 09:15:46 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[23-May-2024 13:27:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php:18
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/user data delete page.php on line 18
+[23-May-2024 13:28:54 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 25
+[23-May-2024 13:30:07 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 25
+[23-May-2024 15:01:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php:12
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php on line 12
+[23-May-2024 15:01:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php:12
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php on line 12
+[23-May-2024 15:08:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php:12
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php on line 12
+[23-May-2024 15:08:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php:12
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php on line 12
+[23-May-2024 15:59:30 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[23-May-2024 15:59:44 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[23-May-2024 16:07:31 UTC] PHP Warning:  Undefined variable $uid in /home/dbditsco/bersyukur.cloud/IOTKK/read tag pembayaran.php on line 270
+[23-May-2024 16:08:06 UTC] PHP Warning:  Undefined variable $uid in /home/dbditsco/bersyukur.cloud/IOTKK/read tag pembayaran.php on line 270
+[23-May-2024 16:08:06 UTC] PHP Warning:  Undefined variable $uid in /home/dbditsco/bersyukur.cloud/IOTKK/read tag pembayaran.php on line 270
+[23-May-2024 16:09:36 UTC] PHP Warning:  Undefined variable $uid in /home/dbditsco/bersyukur.cloud/IOTKK/read tag pembayaran.php on line 270
+[23-May-2024 16:10:21 UTC] PHP Warning:  Undefined variable $uid in /home/dbditsco/bersyukur.cloud/IOTKK/read tag pembayaran.php on line 270
+[23-May-2024 16:10:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbditsco_bersyukur.table_the_iot_projects' doesn't exist in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php:12
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php on line 12
+[23-May-2024 16:10:49 UTC] PHP Warning:  Undefined variable $uid in /home/dbditsco/bersyukur.cloud/IOTKK/read tag pembayaran.php on line 270
+[23-May-2024 16:11:22 UTC] PHP Warning:  Undefined variable $uid in /home/dbditsco/bersyukur.cloud/IOTKK/read tag pembayaran.php on line 270
+[23-May-2024 16:11:44 UTC] PHP Warning:  Undefined variable $uid in /home/dbditsco/bersyukur.cloud/IOTKK/read tag pembayaran.php on line 270
+[23-May-2024 16:13:09 UTC] PHP Warning:  Undefined array key "id" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 27
+[23-May-2024 16:13:22 UTC] PHP Warning:  Undefined array key "id" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 27
+[23-May-2024 16:21:36 UTC] PHP Warning:  Undefined array key "id" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 28
+[23-May-2024 16:21:36 UTC] PHP Warning:  Undefined array key "name" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 29
+[23-May-2024 16:21:36 UTC] PHP Warning:  Undefined array key "gender" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 30
+[23-May-2024 16:21:36 UTC] PHP Warning:  Undefined array key "email" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 31
+[23-May-2024 16:21:36 UTC] PHP Warning:  Undefined array key "mobile" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 32
+[23-May-2024 16:21:36 UTC] PHP Warning:  Undefined array key "balance" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 33
+[23-May-2024 16:21:36 UTC] PHP Warning:  Undefined array key "add_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 34
+[23-May-2024 16:21:36 UTC] PHP Warning:  Undefined array key "chatId" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 36
+[23-May-2024 16:21:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php:45
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php(45): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 45
+[23-May-2024 16:23:14 UTC] PHP Warning:  Undefined array key "id" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 28
+[23-May-2024 16:23:14 UTC] PHP Warning:  Undefined array key "name" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 29
+[23-May-2024 16:23:14 UTC] PHP Warning:  Undefined array key "gender" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 30
+[23-May-2024 16:23:14 UTC] PHP Warning:  Undefined array key "email" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 31
+[23-May-2024 16:23:14 UTC] PHP Warning:  Undefined array key "mobile" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 32
+[23-May-2024 16:23:14 UTC] PHP Warning:  Undefined array key "balance" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 33
+[23-May-2024 16:23:14 UTC] PHP Warning:  Undefined array key "add_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 34
+[23-May-2024 16:23:14 UTC] PHP Warning:  Undefined array key "chatId" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 36
+[23-May-2024 16:23:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php:45
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php(45): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 45
+[23-May-2024 16:24:08 UTC] PHP Warning:  Undefined array key "id" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 28
+[23-May-2024 16:24:08 UTC] PHP Warning:  Undefined array key "name" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 29
+[23-May-2024 16:24:08 UTC] PHP Warning:  Undefined array key "gender" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 30
+[23-May-2024 16:24:08 UTC] PHP Warning:  Undefined array key "email" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 31
+[23-May-2024 16:24:08 UTC] PHP Warning:  Undefined array key "mobile" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 32
+[23-May-2024 16:24:08 UTC] PHP Warning:  Undefined array key "balance" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 33
+[23-May-2024 16:24:08 UTC] PHP Warning:  Undefined array key "add_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 34
+[23-May-2024 16:24:08 UTC] PHP Warning:  Undefined array key "chatId" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 36
+[23-May-2024 16:24:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php:45
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php(45): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 45
+[23-May-2024 16:25:25 UTC] PHP Warning:  Undefined array key "id" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 28
+[23-May-2024 16:25:25 UTC] PHP Warning:  Undefined array key "name" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 29
+[23-May-2024 16:25:25 UTC] PHP Warning:  Undefined array key "gender" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 30
+[23-May-2024 16:25:25 UTC] PHP Warning:  Undefined array key "email" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 31
+[23-May-2024 16:25:25 UTC] PHP Warning:  Undefined array key "mobile" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 32
+[23-May-2024 16:25:25 UTC] PHP Warning:  Undefined array key "balance" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 33
+[23-May-2024 16:25:25 UTC] PHP Warning:  Undefined array key "chatId" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 34
+[23-May-2024 16:25:28 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7025430463:AAHt85L9BbeGzcRiRekeU_8Ei_tVL_c3bLk/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 24
+[23-May-2024 16:27:18 UTC] PHP Warning:  Undefined array key "id" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 28
+[23-May-2024 16:27:18 UTC] PHP Warning:  Undefined array key "name" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 29
+[23-May-2024 16:27:18 UTC] PHP Warning:  Undefined array key "gender" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 30
+[23-May-2024 16:27:18 UTC] PHP Warning:  Undefined array key "email" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 31
+[23-May-2024 16:27:18 UTC] PHP Warning:  Undefined array key "mobile" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 32
+[23-May-2024 16:27:18 UTC] PHP Warning:  Undefined array key "balance" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 33
+[23-May-2024 16:27:18 UTC] PHP Warning:  Undefined array key "add_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 34
+[23-May-2024 16:27:18 UTC] PHP Warning:  Undefined array key "chatId" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 36
+[23-May-2024 16:27:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php:45
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php(45): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 45
+[23-May-2024 16:27:54 UTC] PHP Warning:  Undefined array key "id" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 28
+[23-May-2024 16:27:54 UTC] PHP Warning:  Undefined array key "name" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 29
+[23-May-2024 16:27:54 UTC] PHP Warning:  Undefined array key "gender" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 30
+[23-May-2024 16:27:54 UTC] PHP Warning:  Undefined array key "email" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 31
+[23-May-2024 16:27:54 UTC] PHP Warning:  Undefined array key "mobile" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 32
+[23-May-2024 16:27:54 UTC] PHP Warning:  Undefined array key "balance" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 33
+[23-May-2024 16:27:54 UTC] PHP Warning:  Undefined array key "add_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 34
+[23-May-2024 16:27:54 UTC] PHP Warning:  Undefined array key "chatId" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 36
+[23-May-2024 16:27:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php:45
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php(45): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 45
+[23-May-2024 16:28:56 UTC] PHP Warning:  Undefined array key "id" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 28
+[23-May-2024 16:28:56 UTC] PHP Warning:  Undefined array key "name" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 29
+[23-May-2024 16:28:56 UTC] PHP Warning:  Undefined array key "gender" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 30
+[23-May-2024 16:28:56 UTC] PHP Warning:  Undefined array key "email" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 31
+[23-May-2024 16:28:56 UTC] PHP Warning:  Undefined array key "mobile" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 32
+[23-May-2024 16:28:56 UTC] PHP Warning:  Undefined array key "balance" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 33
+[23-May-2024 16:28:56 UTC] PHP Warning:  Undefined array key "add_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 34
+[23-May-2024 16:28:56 UTC] PHP Warning:  Undefined array key "chatId" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 36
+[23-May-2024 16:28:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php:45
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php(45): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 45
+[23-May-2024 16:36:04 UTC] PHP Warning:  Undefined array key "id" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 28
+[23-May-2024 16:36:04 UTC] PHP Warning:  Undefined array key "name" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 29
+[23-May-2024 16:36:04 UTC] PHP Warning:  Undefined array key "gender" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 30
+[23-May-2024 16:36:04 UTC] PHP Warning:  Undefined array key "email" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 31
+[23-May-2024 16:36:04 UTC] PHP Warning:  Undefined array key "mobile" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 32
+[23-May-2024 16:36:04 UTC] PHP Warning:  Undefined array key "balance" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 33
+[23-May-2024 16:36:04 UTC] PHP Warning:  Undefined array key "add_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 34
+[23-May-2024 16:36:04 UTC] PHP Warning:  Undefined array key "chatId" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 36
+[23-May-2024 16:36:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php:45
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php(45): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 45
+[23-May-2024 16:36:56 UTC] PHP Warning:  Undefined array key "id" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 28
+[23-May-2024 16:36:56 UTC] PHP Warning:  Undefined array key "name" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 29
+[23-May-2024 16:36:56 UTC] PHP Warning:  Undefined array key "gender" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 30
+[23-May-2024 16:36:56 UTC] PHP Warning:  Undefined array key "email" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 31
+[23-May-2024 16:36:56 UTC] PHP Warning:  Undefined array key "mobile" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 32
+[23-May-2024 16:36:56 UTC] PHP Warning:  Undefined array key "balance" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 33
+[23-May-2024 16:36:56 UTC] PHP Warning:  Undefined array key "add_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 34
+[23-May-2024 16:36:56 UTC] PHP Warning:  Undefined array key "chatId" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 36
+[23-May-2024 16:36:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php:45
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php(45): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 45
+[23-May-2024 16:37:26 UTC] PHP Warning:  Undefined variable $uid in /home/dbditsco/bersyukur.cloud/IOTKK/read tag pembayaran.php on line 270
+[23-May-2024 16:37:27 UTC] PHP Warning:  Undefined variable $uid in /home/dbditsco/bersyukur.cloud/IOTKK/read tag pembayaran.php on line 270
+[23-May-2024 16:38:35 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[23-May-2024 16:40:48 UTC] PHP Warning:  Undefined array key "balance" in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 29
+[23-May-2024 16:40:48 UTC] PHP Warning:  Undefined array key "reduce_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 30
+[23-May-2024 16:40:51 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[23-May-2024 16:42:21 UTC] PHP Warning:  Undefined array key "add_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 34
+[23-May-2024 16:42:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php:45
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php(45): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 45
+[23-May-2024 16:43:29 UTC] PHP Warning:  Undefined array key "reduce_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 29
+[23-May-2024 16:43:33 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[23-May-2024 16:45:11 UTC] PHP Warning:  Undefined array key "reduce_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 29
+[23-May-2024 16:45:14 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[23-May-2024 16:46:33 UTC] PHP Warning:  Undefined array key "reduce_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 29
+[23-May-2024 16:46:35 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[23-May-2024 16:57:11 UTC] PHP Warning:  Undefined array key "id" in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 28
+[23-May-2024 16:57:11 UTC] PHP Warning:  Undefined array key "reduce_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 29
+[23-May-2024 16:58:59 UTC] PHP Warning:  Undefined array key "reduce_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 29
+[23-May-2024 16:59:06 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[23-May-2024 17:00:31 UTC] PHP Warning:  Undefined array key "reduce_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 29
+[23-May-2024 17:00:33 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[23-May-2024 17:00:59 UTC] PHP Warning:  Undefined array key "reduce_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 29
+[23-May-2024 17:01:01 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[23-May-2024 17:13:39 UTC] PHP Warning:  Undefined array key "reduce_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 29
+[23-May-2024 17:13:43 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[23-May-2024 17:14:00 UTC] PHP Warning:  Undefined array key "reduce_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 29
+[23-May-2024 17:14:06 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[23-May-2024 17:21:58 UTC] PHP Warning:  Undefined array key "id" in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 28
+[23-May-2024 17:22:35 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[23-May-2024 17:24:11 UTC] PHP Warning:  Undefined array key "reduce_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 29
+[23-May-2024 17:24:13 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[23-May-2024 17:25:09 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[24-May-2024 04:53:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '34F76951' for key 'siswa_wali.PRIMARY' in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php:18
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php on line 18
+[24-May-2024 04:53:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '34F76951' for key 'siswa_wali.PRIMARY' in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php:18
+Stack trace:
+#0 /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/insertDB.php on line 18
+[24-May-2024 04:55:38 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7025430463:AAHt85L9BbeGzcRiRekeU_8Ei_tVL_c3bLk/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[24-May-2024 04:57:45 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7025430463:AAHt85L9BbeGzcRiRekeU_8Ei_tVL_c3bLk/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/tambahSaldoDB.php on line 24
+[24-May-2024 04:58:36 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7025430463:AAHt85L9BbeGzcRiRekeU_8Ei_tVL_c3bLk/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[24-May-2024 04:59:07 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7025430463:AAHt85L9BbeGzcRiRekeU_8Ei_tVL_c3bLk/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/tambahSaldoDB.php on line 24
+[24-May-2024 05:00:05 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7025430463:AAHt85L9BbeGzcRiRekeU_8Ei_tVL_c3bLk/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/tambahSaldoDB.php on line 24
+[24-May-2024 05:00:29 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7025430463:AAHt85L9BbeGzcRiRekeU_8Ei_tVL_c3bLk/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[24-May-2024 13:36:00 UTC] PHP Warning:  Undefined array key "add_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/tambahSaldoDB.php on line 29
+[24-May-2024 14:14:55 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php on line 17
+[25-May-2024 04:26:45 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php on line 17
+[25-May-2024 05:07:25 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7025430463:AAHt85L9BbeGzcRiRekeU_8Ei_tVL_c3bLk/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[25-May-2024 05:07:57 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7025430463:AAHt85L9BbeGzcRiRekeU_8Ei_tVL_c3bLk/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/tambahSaldoDB.php on line 24
+[25-May-2024 05:08:26 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7025430463:AAHt85L9BbeGzcRiRekeU_8Ei_tVL_c3bLk/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/tambahSaldoDB.php on line 24
+[25-May-2024 05:08:45 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7025430463:AAHt85L9BbeGzcRiRekeU_8Ei_tVL_c3bLk/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[25-May-2024 05:10:35 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7025430463:AAHt85L9BbeGzcRiRekeU_8Ei_tVL_c3bLk/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[25-May-2024 05:22:49 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7025430463:AAHt85L9BbeGzcRiRekeU_8Ei_tVL_c3bLk/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/tambahSaldoDB.php on line 24
+[25-May-2024 06:02:20 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[27-May-2024 04:09:37 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/tambahSaldoDB.php on line 24
+[27-May-2024 09:04:05 UTC] PHP Warning:  Undefined array key "add_balance" in /home/dbditsco/bersyukur.cloud/IOTKK/tambahSaldoDB.php on line 29
+[27-May-2024 09:04:07 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/tambahSaldoDB.php on line 24
+[28-May-2024 05:42:22 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[28-May-2024 05:48:00 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[28-May-2024 05:55:55 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[28-May-2024 06:01:18 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[28-May-2024 06:20:23 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[28-May-2024 07:14:00 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[28-May-2024 07:14:20 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php on line 17
+[28-May-2024 07:19:42 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php on line 17
+[28-May-2024 07:22:02 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php on line 17
+[28-May-2024 07:24:02 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php on line 17
+[28-May-2024 07:24:42 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php on line 17
+[28-May-2024 09:04:35 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[28-May-2024 09:04:57 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/tambahSaldoDB.php on line 24
+[28-May-2024 09:25:43 UTC] PHP Warning:  Undefined variable $dataBalance in /home/dbditsco/bersyukur.cloud/IOTKK/sendNewBalance.php on line 1
+[28-May-2024 09:25:52 UTC] PHP Warning:  Undefined variable $dataBalance in /home/dbditsco/bersyukur.cloud/IOTKK/sendNewBalance.php on line 1
+[28-May-2024 09:25:54 UTC] PHP Warning:  Undefined variable $dataBalance in /home/dbditsco/bersyukur.cloud/IOTKK/sendNewBalance.php on line 1
+[28-May-2024 09:26:16 UTC] PHP Warning:  Undefined variable $dataBalance in /home/dbditsco/bersyukur.cloud/IOTKK/sendNewBalance.php on line 1
+[28-May-2024 09:26:33 UTC] PHP Warning:  Undefined variable $dataBalance in /home/dbditsco/bersyukur.cloud/IOTKK/sendNewBalance.php on line 1
+[28-May-2024 09:26:47 UTC] PHP Warning:  Undefined variable $dataBalance in /home/dbditsco/bersyukur.cloud/IOTKK/sendNewBalance.php on line 1
+[28-May-2024 09:26:53 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int + string in /home/dbditsco/bersyukur.cloud/IOTKK/tambahSaldoDB.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/dbditsco/bersyukur.cloud/IOTKK/tambahSaldoDB.php on line 44
+[28-May-2024 09:51:57 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php on line 17
+[31-May-2024 02:24:13 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[31-May-2024 02:27:29 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[31-May-2024 02:55:56 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[01-Jun-2024 04:58:09 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php on line 17
+[01-Jun-2024 04:58:34 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[01-Jun-2024 05:13:09 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[03-Jun-2024 07:35:21 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/dbditsco/bersyukur.cloud/IOTKK/getUID.php on line 2
+[03-Jun-2024 08:08:46 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/dbditsco/bersyukur.cloud/IOTKK/getUID.php on line 2
+[03-Jun-2024 08:13:29 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/dbditsco/bersyukur.cloud/IOTKK/getUID.php on line 2
+[03-Jun-2024 08:15:42 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/dbditsco/bersyukur.cloud/IOTKK/getUID.php on line 2
+[03-Jun-2024 08:29:42 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/dbditsco/bersyukur.cloud/IOTKK/getUID.php on line 2
+[05-Jun-2024 05:14:34 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[05-Jun-2024 07:43:05 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/botYOUR_TELEGRAM_BOT_TOKEN/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[05-Jun-2024 07:46:06 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/botYOUR_TELEGRAM_BOT_TOKEN/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[05-Jun-2024 07:48:00 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/botYOUR_TELEGRAM_BOT_TOKEN/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[05-Jun-2024 07:51:10 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/botYOUR_TELEGRAM_BOT_TOKEN/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[05-Jun-2024 07:52:33 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[05-Jun-2024 07:52:53 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[05-Jun-2024 07:55:58 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[05-Jun-2024 08:02:03 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php on line 17
+[05-Jun-2024 08:02:35 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/botYOUR_TELEGRAM_BOT_TOKEN/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[05-Jun-2024 08:18:27 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/botYOUR_TELEGRAM_BOT_TOKEN/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[05-Jun-2024 08:18:52 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/botYOUR_TELEGRAM_BOT_TOKEN/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[05-Jun-2024 08:19:46 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/botYOUR_TELEGRAM_BOT_TOKEN/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[05-Jun-2024 08:38:00 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/botYOUR_TELEGRAM_BOT_TOKEN/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[05-Jun-2024 08:49:39 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/botYOUR_TELEGRAM_BOT_TOKEN/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[05-Jun-2024 08:51:04 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/botYOUR_TELEGRAM_BOT_TOKEN/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/dbditsco/bersyukur.cloud/IOTKK/bayarDB.php on line 24
+[07-Jun-2024 03:16:41 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/dbditsco/bersyukur.cloud/IOTKK/getUIDBayar.php on line 2
+[07-Jun-2024 03:17:43 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/dbditsco/bersyukur.cloud/IOTKK/getUIDBayar.php on line 2
+[07-Jun-2024 03:18:19 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/dbditsco/bersyukur.cloud/IOTKK/getUIDBayar.php on line 2
+[07-Jun-2024 03:18:20 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/dbditsco/bersyukur.cloud/IOTKK/getUIDBayar.php on line 2
+[07-Jun-2024 03:18:20 UTC] PHP Warning:  Undefined array key "UIDresult" in /home/dbditsco/bersyukur.cloud/IOTKK/getUIDBayar.php on line 2
+[07-Jun-2024 04:46:14 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php on line 17
+[12-Jun-2024 10:28:39 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[12-Jun-2024 10:34:12 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[12-Jun-2024 10:34:32 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[15-Jun-2024 07:00:54 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 25
+[15-Jun-2024 07:01:09 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7178379398:AAHBS4llRr2oZX9UzrFOw-Risy15OYt0jCc/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/dbditsco/bersyukur.cloud/IOTKK/updateDB.php on line 25
+[16-Jun-2024 10:58:53 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag user data.php on line 17
+[18-Jun-2024 12:58:49 UTC] PHP Warning:  Trying to access array offset on false in /home/dbditsco/bersyukur.cloud/IOTKK/read tag data user pembayaran.php on line 17
